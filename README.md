@@ -56,9 +56,9 @@ Repository Quality: 13%
 
 - ~~Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.~~
 
-- Repository contains multiple descriptive commit messages.
+- ~~Repository contains multiple descriptive commit messages.~~
 
-- Repository contains quality README file with description, screenshot, and link to deployed application.
+- ~~Repository contains quality README file with description, screenshot, and link to deployed application.~~
 
 ### Before Updates
 ![beforeimages](assets/images/mockup-horiseon.png)
@@ -66,6 +66,9 @@ Repository Quality: 13%
 ### After Updates
 ![afterimages](assets/images/horiseon-update.jpg)
 ![afterimages2](assets/images/horiseon-update2.jpg)
+
+## Link
+[GitHub](https://adrianapvent.github.io/Horiseon1/)
 
 ## License
 
