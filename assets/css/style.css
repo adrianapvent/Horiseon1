@@ -9,6 +9,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* HOMEPAGE NAVIGATION */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -52,7 +53,8 @@ header nav ul li {
     background-position: center;
 }
 
-/* Move Down */
+/* Content Section */
+/* utility classes */
 .float-left {
     float: left;
     margin-right: 25px;
